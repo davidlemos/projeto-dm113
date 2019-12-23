@@ -1,0 +1,11 @@
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\Cliente1\bin\Debug\Cliente1.exe.config
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\Cliente1\bin\Debug\Cliente1.exe
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\Cliente1\bin\Debug\Cliente1.pdb
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\Cliente1\bin\Debug\EntityFramework.dll
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\Cliente1\bin\Debug\EntityFramework.SqlServer.dll
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\Cliente1\bin\Debug\EntityFramework.xml
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\Cliente1\bin\Debug\EntityFramework.SqlServer.xml
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\Cliente1\obj\Debug\ClienteV1.csprojAssemblyReference.cache
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\Cliente1\obj\Debug\ClienteV1.csproj.CopyComplete
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\Cliente1\obj\Debug\Cliente1.exe
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\Cliente1\obj\Debug\Cliente1.pdb

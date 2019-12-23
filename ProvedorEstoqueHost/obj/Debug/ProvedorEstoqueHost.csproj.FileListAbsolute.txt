@@ -1,0 +1,17 @@
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ProvedorEstoqueHost\bin\Debug\ProvedorEstoqueHost.exe.config
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ProvedorEstoqueHost\bin\Debug\ProvedorEstoqueHost.exe
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ProvedorEstoqueHost\bin\Debug\ProvedorEstoqueHost.pdb
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ProvedorEstoqueHost\bin\Debug\EntityFramework.dll
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ProvedorEstoqueHost\bin\Debug\EntityFramework.SqlServer.dll
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ProvedorEstoqueHost\bin\Debug\EstoqueLibrary.dll
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ProvedorEstoqueHost\bin\Debug\EstoqueEntityModel.dll
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ProvedorEstoqueHost\bin\Debug\EstoqueLibrary.pdb
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ProvedorEstoqueHost\bin\Debug\EstoqueLibrary.dll.config
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ProvedorEstoqueHost\bin\Debug\EntityFramework.xml
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ProvedorEstoqueHost\bin\Debug\EntityFramework.SqlServer.xml
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ProvedorEstoqueHost\bin\Debug\EstoqueEntityModel.pdb
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ProvedorEstoqueHost\bin\Debug\EstoqueEntityModel.dll.config
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ProvedorEstoqueHost\obj\Debug\ProvedorEstoqueHost.csprojAssemblyReference.cache
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ProvedorEstoqueHost\obj\Debug\ProvedorEstoqueHost.csproj.CopyComplete
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ProvedorEstoqueHost\obj\Debug\ProvedorEstoqueHost.exe
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ProvedorEstoqueHost\obj\Debug\ProvedorEstoqueHost.pdb

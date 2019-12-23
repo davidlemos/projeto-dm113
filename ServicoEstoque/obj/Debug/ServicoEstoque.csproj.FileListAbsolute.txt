@@ -1,0 +1,14 @@
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ServicoEstoque\bin\ServicoEstoque.dll.config
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ServicoEstoque\bin\ServicoEstoque.dll
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ServicoEstoque\bin\ServicoEstoque.pdb
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ServicoEstoque\bin\EntityFramework.dll
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ServicoEstoque\bin\EntityFramework.SqlServer.dll
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ServicoEstoque\bin\EstoqueEntityModel.dll
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ServicoEstoque\bin\EstoqueEntityModel.pdb
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ServicoEstoque\bin\EstoqueEntityModel.dll.config
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ServicoEstoque\bin\EntityFramework.xml
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ServicoEstoque\bin\EntityFramework.SqlServer.xml
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ServicoEstoque\obj\Debug\ServicoEstoque.csprojAssemblyReference.cache
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ServicoEstoque\obj\Debug\ServicoEstoque.csproj.CopyComplete
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ServicoEstoque\obj\Debug\ServicoEstoque.dll
+E:\David\Inatel-pos\DM113\DM113_FrancineBraga-master\DM113_FrancineBraga-master\ServicoEstoque\obj\Debug\ServicoEstoque.pdb
